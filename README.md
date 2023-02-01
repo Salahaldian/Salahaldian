@@ -1,5 +1,4 @@
-<h1 style="text-align:center; ">Hey there, I'm Salahaldin. I'm a Web developer and designer.</h1>
-<iframe src="https://giphy.com/embed/fmK5sRNvnqva93JC2J" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fmK5sRNvnqva93JC2J">via GIPHY</a></p>
+![Hey there, I'm Salahaldin. I'm a Web developer and designer.](https://media.giphy.com/media/fmK5sRNvnqva93JC2J/giphy.gif)
 
 [![Twitter](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/salahaldin_11) &nbsp;
  &nbsp;
