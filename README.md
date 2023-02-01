@@ -1,10 +1,10 @@
 <h1 style="text-align:center; ">Hey there, I'm Salahaldin. I'm a Web developer and designer.</h1>
+<video>
+    <source src="C:\Users\Salahaldin Hameed\Downloads\Geometric YouTube gaming intro - Made with Clipchamp (1)">
+</video>
 
-[![Twitter](https://img.shields.io/twitter?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/salahaldin_11) &nbsp;
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=USERID" &nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/salahaldin_11) &nbsp;
+ &nbsp;
 
 
 # 👋 &nbsp;Hi there
