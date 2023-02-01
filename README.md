@@ -1,7 +1,7 @@
 <h1 style="text-align:center; ">Hey there, I'm Salahaldin. I'm a Web developer and designer.</h1>
 
 [![Twitter](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/salahaldin_11) &nbsp;
-[![LinkedIn](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://www.linkedin.com/in/%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%AD%D9%85%D9%91%D9%8A%D8%AF-6b6926215/?locale=en_US) &nbsp;
+[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Flinkedin%2F&psig=AOvVaw0lb_bUQ37jDqMfS5TyEYJx&ust=1675332842717000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjDprKL9PwCFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%AD%D9%85%D9%91%D9%8A%D8%AF-6b6926215/?locale=en_US) &nbsp;
 
 
 # 👋 &nbsp;Hi there
