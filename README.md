@@ -3,7 +3,6 @@
 <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
 <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
 
-![Hey there, I'm Salahaldin. I'm a Web developer and designer.](https://media.giphy.com/media/fmK5sRNvnqva93JC2J/giphy.gif)
 
 # 👋 &nbsp;Hi there
 
