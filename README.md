@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Salahaldian&label=Profile%20views&color=0e75b6&style=flat" alt="eng-mohammedassfa" /> </p>
-![Hey there, I'm Salahaldin. I'm a Web developer and designer.](https://media.giphy.com/media/fmK5sRNvnqva93JC2J/giphy.gif)
+
 
 # 👋 &nbsp;Hi there
 
