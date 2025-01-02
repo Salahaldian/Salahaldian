@@ -1,10 +1,10 @@
-![Hey there, I'm Salahaldin. I'm a Data Analysis & Data Science & AI | PHP-Laravel Developer | Web Development.](https://media.giphy.com/media/fmK5sRNvnqva93JC2J/giphy.gif)
+![Hey there, I'm Salahaldin. I'm a Data Analysis & Data Science & AI | PHP-Laravel Developer | Web Development.]
 
 
 
 # 👋 &nbsp;Hi there
 
-I'm a  Web developer and designer. I enjoy create projects and solve problems. 
+I'm a  Data Analysis & Data Science & AI | PHP-Laravel Developer | Web Development. I enjoy create projects and solve problems. 
 
 
 &nbsp;
