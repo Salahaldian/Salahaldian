@@ -1,7 +1,3 @@
-![Hey there, I'm Salahaldin. I'm a Data Analysis & Data Science & AI | PHP-Laravel Developer | Web Development.]
-
-
-
 # 👋 &nbsp;Hi there
 
 I'm a  Data Analysis & Data Science & AI | PHP-Laravel Developer | Web Development. I enjoy create projects and solve problems. 
