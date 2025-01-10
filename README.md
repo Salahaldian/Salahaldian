@@ -49,4 +49,9 @@
 
 ---
 
+### 🐍 My contributions eaten by a snake
+![snake gif](https://github.com/Salahaldian/Salahaldian/blob/output/github-snake-dark.svg)
+
+---
+
 Feel free to connect with me for collaboration and discussions!
