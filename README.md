@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>👨‍💻 About Me:</h3>
-  <p><strong>📊 Data Analyst</strong> | <strong>📈 Data Science Enthusiast</strong> | <strong>🤖 Machine Learning</strong> | <strong>🌐 Web Developer</strong></p>
+  <p><strong>📊 Data Analyst</strong> | <strong>📈 Data Science</strong> | <strong>🤖 Machine Learning</strong> | <strong>🌐 Web Developer</strong></p>
 </div>
 
 ---
